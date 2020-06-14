@@ -22,5 +22,28 @@ img {
 }
 
 * {
+
 	box-sizing: border-box;
+}
+
+.superinfo-bg {
+	color: white;
+	background-color: #122ab2;
+}
+
+.superinfo {
+	display: flex;
+	max-width: 960px;
+	margin: 0 auto;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	padding-top: 10px;
+}
+
+.superinfo a {
+	color: white;
+}
+
+.superinfo p, superinfo a {
+	margin: 0 10px 10px 10px;
 }
