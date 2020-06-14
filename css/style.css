@@ -86,3 +86,16 @@ img {
 .menu-nav a:hover {
 	color: #2c70ff;
 }
+
+.introducao {
+	font-size: 3em;
+	line-height: 1;
+	max-width: 960px;
+	margin:0 auto;
+	padding: 60px 10px;
+}
+
+.sobre {
+	border-top: 2px solid #2c70ff;
+	border-bottom: 2px solid #2c70ff;
+}
