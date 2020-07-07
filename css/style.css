@@ -28,7 +28,7 @@ img {
 
 .superinfo-bg {
 	color: white;
-	background-color: #122ab2;
+	background-color: #4A3E6C;
 }
 
 .superinfo {
@@ -49,7 +49,7 @@ img {
 }
 
 .menu-bg {
-	background-color: #2c70ff;
+	background-color: #7A7485;
 }
 
 .menu {
@@ -84,7 +84,7 @@ img {
 }
 
 .menu-nav a:hover {
-	color: #2c70ff;
+	color: #4A3E6C;
 }
 
 .introducao {
@@ -93,9 +93,10 @@ img {
 	max-width: 960px;
 	margin:0 auto;
 	padding: 60px 10px;
+	color: #2B2538;
 }
 
 .sobre {
-	border-top: 2px solid #2c70ff;
-	border-bottom: 2px solid #2c70ff;
+	border-top: 2px solid darkslateblue;
+	border-bottom: 2px solid darkslateblue;
 }
