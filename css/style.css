@@ -99,4 +99,33 @@ img {
 .sobre {
 	border-top: 2px solid darkslateblue;
 	border-bottom: 2px solid darkslateblue;
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 60px 0;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.sobre-info {
+	flex: 2 1 300px;
+}
+
+.sobre-info h1 {
+	font-size: 3em;
+	margin-bottom: .5em;
+}
+
+.sobre-imgs {
+	flex: 1 1 160px;
+	margin-bottom: 5px;
+}
+.sobre-imgs {
+	margin-bottom: 10px;
+}
+
+.sobre-info p {
+	font-size: 1.25em;
+	line-height: 1.4;
+	margin-bottom: 1em;
+	color: #7c7c7c;
 }
