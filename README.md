@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Cats Yumi e Nox 👋</h1>
+<h1 align="center">Welcome to Cats Yumi e Nox Site👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/Thaiane/flexblog#readme" target="_blank">
@@ -12,9 +12,10 @@
   </a>
 </p>
 
-> Projeto para estudo de HTML e CSS durante o desafio #100DaysOfCode. O site produzido é para as duas gatinhas Yumi e Nox.
-
+> Project to study HTML and CSS during the # 100DaysOfCode challenge. The website produced is for my two kittens Yumi and Nox.
 #### ✨ Demo: [thaiane.github.io/cats.yumienox](https://thaiane.github.io/cats.yumienox/)
+
+<img alt="Demo do site" align='center' width='400px' src='./img/siteDaYumiENox.gif'>
 
 ## Install
 
@@ -28,7 +29,7 @@ npm install
 npm run start
 ```
 
-## Autora
+## Author
 
 👤 **Thaiane Braga**
 
@@ -36,7 +37,7 @@ npm run start
 * Twitter: [@ThaiiBraga](https://twitter.com/ThaiiBraga)
 * Github: [@Thaiane](https://github.com/Thaiane)
 
-Deixe uma ⭐️ se gostou do projeto!
+Feel free to clone or let us know ⭐️if you liked the project.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
