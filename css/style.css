@@ -214,5 +214,76 @@ img {
 	font-size: 1.25em;
 	line-height: 1.4;
 	color: #7c7c7c;
+}
 
+.contato {
+	background: #f7f7f7;
+	padding: 60px calc((100% - 960px)/2);
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.contato h1 {
+	font-size: 3em;
+	color: #a4a4a4;
+}
+
+.contato p {
+	font-size: 1.25em;
+	font-style: italic;
+	max-width: 230px;
+	color: #7c7c7c;
+	margin-bottom: 10px;
+}
+
+.contato-info {
+	flex: 1;
+}
+
+.contato-form {
+	flex: 2 1 260px;
+	margin: 0 10px;
+	align-self: center;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.contato-form input {
+	flex: 3 1 260px;
+	font-size: 1.25em;
+	color: #7c7c7c;
+	font-style: italic;
+	border: 4px solid darkslateblue;
+	background: transparent;
+	padding: 15px 10px;
+	font-family: "Nunito", Arial, Helvetica, sans-serif;
+	margin: 0px;
+	border-radius: 0px;
+}
+
+.contato-form button {
+	flex: 1 1 260px;
+	font-family: "Nunito", Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 2.25em;
+	background: darkslateblue;
+	cursor: pointer;
+	color: white;
+	text-transform: uppercase;
+	border: 0px;
+	padding: 15px 10px;
+
+}
+
+@media(max-width: 600px) {
+	.contato-form button {
+		font-size: 1.5em;
+	}
+}
+
+.footer {
+	color: white;
+	background-color: #4A3E6C;
+	text-align: center;
+	padding: 15px;
 }
